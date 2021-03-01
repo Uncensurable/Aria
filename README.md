@@ -2,7 +2,7 @@
 
 OpAria is a collection of IP's being used for spam emails. Further actions are planned
 
-# 16 SHOP LINKS
+# IP's
 
 |    IP        |   
 |----------------
